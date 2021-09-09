@@ -1,0 +1,40 @@
+body{
+    background-color: #d5e2fc;
+}
+
+.container_wrapper{
+    margin: 30px 20px;
+    /* height: 100%; */
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 3px 30px 0 rgba(78, 78, 78, 0.64);
+    padding: 10px;
+}
+
+.header h5{
+    background-color: #eaf0fe;  
+    padding: 10px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    font-family: 'Lato', sans-serif;
+}
+
+.charts-container{
+    box-shadow: 0 3px 30px 0 rgba(78, 78, 78, 0.64);
+    border-radius : 4px;
+    padding: 10px;
+    margin: 20px;
+    width: 45%;
+}
+
+.d-flex{
+    display: flex;
+}
